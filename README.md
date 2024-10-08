@@ -1,5 +1,5 @@
 # Umpiring in the Age of Techonology - A Study of Pitch Calling by MLB Umpires
-## *Alexander J. Sutherland*
+## *Alexander J. Sutherland* [(website)](https://www.alexandersutherland.com/data-science)
 
 ### (1) Overview  
 In 2024, the pitch calling abilities of home plate umpires are under more scrutiny than ever: entities like Ump Scorecards publish summaries of home plate umpire performance for every Major League Baseball (MLB) game on social media (Ump Scorecards, 2024) and all AAA-level games in Minor League Baseball (MiLB) used the automated ball-strike (ABS) challenge system as of June 25th (Harrigan, 2024). Given the importance of correct calls to both game outcomes and fans – as well as the looming possibility of an ABS system in MLB games – we investigate both: 
